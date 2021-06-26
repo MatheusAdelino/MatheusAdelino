@@ -1,7 +1,15 @@
-# Hello, welcome to my profile
- 👋
+   #          Matheus Adelino Aleixo Da Silva       
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-adelino/)](https://www.linkedin.com/in/matheus-adelino/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matheus.thdev/)](https://www.instagram.com/matheus.thdev/) 
+ 
 
-Hi, my name is Matheus, I'm 20 years old, I'm from Brazil. System development analysis student and Front-End developer since 2021.
+Olá 👋, meu nome é Matheus tenho 20 anos, sou estudante na área de análise de desenvolvimento de sistemas📚.
+Atualmente iniciei a minha carreira na programação como desenvolvedor front-end,🚀 meu maior foco agora é adquirir conhecimento e
+pode compartilhar minhas experiências com vocês.💪
+
+### Formação acadêmica 🎓
+- Análise de desenvolvimento de sistemas.
+
 
 ####  The essence of knowledge is to apply it, once possessed.
 
@@ -9,7 +17,7 @@ Hi, my name is Matheus, I'm 20 years old, I'm from Brazil. System development an
 - 💻   Front End Developer
 - 📊 Always writing code
 
-# follow me 👇
 
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-adelino/)](https://www.linkedin.com/in/matheus-adelino/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matheus.thdev/)](https://www.instagram.com/matheus.thdev/) 
+
+ 
