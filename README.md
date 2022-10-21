@@ -19,7 +19,7 @@ pode compartilhar minhas experiências com vocês.💪
 ####  The essence of knowledge is to apply it, once possessed.
 
 - 📍   From the city of São Paulo, SP Brazil.
-- 💻   Front End Developer
+- 💻   Python  Developer
 - 📊 Always writing code
 
 
