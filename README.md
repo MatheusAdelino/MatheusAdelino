@@ -3,7 +3,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-adelino/)](https://www.linkedin.com/in/matheus-adelino/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matheus.thdev/)](https://www.instagram.com/matheus.thdev/) 
  
 
-Olá 👋, meu nome é Matheus tenho 20 anos, sou estudante na área de análise de desenvolvimento de sistemas📚.
+Olá 👋, meu nome é Matheus tenho 23 anos, sou formado na área de análise de desenvolvimento de sistemas pelo Centro Universitário Senac📚.
 Atualmente iniciei a minha carreira na programação como desenvolvedor Python e data analytics com conhecimentos básicos em SQL🚀 meu maior foco agora é adquirir conhecimento e
 pode compartilhar minhas experiências com vocês.💪
 
