@@ -6,11 +6,11 @@ Sou profissional de Tecnologia da Informação, formado em Análise e Desenvolvi
 
 Atualmente trabalho como Analista de Suporte Técnico e estou realizando uma transição planejada para a área de Engenharia de Dados.
 
-Minha experiência profissional envolve suporte a sistemas, análise de incidentes, troubleshooting, validação de informações, atendimento técnico e contato com SQL Server, sistemas ERP/POS e processos relacionados a ETL.
+Minha experiência envolve suporte a sistemas, análise de incidentes, troubleshooting, validação de informações e contato com SQL Server, sistemas ERP/POS e processos relacionados a ETL.
 
-Tenho interesse em construir soluções de dados confiáveis, documentadas e escaláveis.
+Tenho interesse em construir soluções de dados confiáveis, organizadas e bem documentadas. Atualmente estou aprofundando meus conhecimentos em SQL, Python, modelagem de dados e fundamentos de Cloud.
 
-## Tecnologias e conhecimentos
+## Conhecimentos atuais
 
 ### Dados
 
@@ -25,37 +25,49 @@ Tenho interesse em construir soluções de dados confiáveis, documentadas e esc
 ### Programação
 
 - Python
-- Pandas
-- Requests
-- APIs REST
-- Tratamento de erros
-- Testes básicos
 
 ### Cloud e ferramentas
 
 - AWS
-- Microsoft Azure — em estudo
 - Git e GitHub
-- Microsoft Fabric — em estudo
-- Azure Data Factory — em estudo
-- Databricks e Apache Spark — próximos objetivos
 
-## Projetos em destaque
+## Em estudo
 
-### Pipeline de cotação de moedas
+Atualmente estou estudando e praticando:
 
-Projeto em Python para consumo de API de cotações, tratamento de respostas e apresentação dos dados.
+- Python aplicado a dados;
+- ingestão de dados por APIs;
+- cargas incrementais;
+- Data Warehousing;
+- qualidade e validação de dados;
+- Azure;
+- ADLS Gen2;
+- Azure Data Factory;
+- Microsoft Fabric;
+- Databricks e Apache Spark.
+
+As tecnologias da seção “Em estudo” serão adicionadas como conhecimentos consolidados conforme eu desenvolver projetos práticos com elas.
+
+## Projetos
+
+### Cotação de Moedas
+
+Projeto desenvolvido em Python para consultar a cotação atual de moedas utilizando uma API.
+
+O projeto utiliza funções, requisições HTTP e interface gráfica básica.
 
 [Ver projeto](https://github.com/MatheusAdelino/CotacaoDeMoedas )
 
 ### Próximos projetos
 
-- Pipeline de API para SQL Server
-- Data Mart de vendas
-- Data Warehouse incremental
-- Pipeline de dados em Azure
-- Lakehouse com Microsoft Fabric
-- Projeto de qualidade e monitoramento de dados
+Estou construindo projetos práticos relacionados a:
+
+- consultas e modelagem em SQL;
+- Data Mart de vendas;
+- pipeline de dados com Python;
+- Data Warehouse incremental;
+- qualidade de dados;
+- pipelines em Cloud.
 
 ## Certificações
 
@@ -73,11 +85,11 @@ Centro Universitário Senac
 
 ## Objetivo profissional
 
-Busco oportunidades de entrada ou transição nas áreas de:
+Estou em transição para oportunidades de entrada nas áreas de:
 
 - Engenharia de Dados;
-- Analytics Engineering;
 - ETL/BI;
+- Analytics Engineering;
 - Análise de Dados com perfil técnico;
 - Cloud Data Engineering.
 
